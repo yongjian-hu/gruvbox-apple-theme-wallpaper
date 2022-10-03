@@ -1,5 +1,5 @@
 # gruvbox-apple-theme
-Gruvbox-Apple Dynamic Theme for macOS.
+Gruvbox Apple Dynamic Theme for macOS / Mac.
 
 Thanks [atlas-ark](https://www.reddit.com/user/atlas-ark/) for creating the original static wallpaper and shared it on [Reddit](https://www.reddit.com/r/MacOS/comments/r10e40/i_created_an_app_for_making_dynamic_wallpapers/).
 
